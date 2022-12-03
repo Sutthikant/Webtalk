@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astrodev-365015",
+  "private_key_id": "da7e9650ae050bba1f099b71022d22701c275824",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCg5TA1n1uLjF6Y\nRqYX+IUugfz4jljlgHOyabK70sEH1slbDoLX524uft3opwNV55tlHFHPv+J2TBJ2\nMKlXIH+s7fML97vZEOtdJMETyTe3cEsaV5RY6dgqgDEiosOZGyozoPB/MMEOITnk\nkVfY6QpgXNoR2r8MWflP1Py213+oazBUif1850jOgtHJa9xdF9OjdTC6PQOT1rke\nXTiLLDHKGzHQ1cqLZ2GTkNdETJnxO2l+Qe93TFQNtaLoPqzA8/qpn8PNyOVli70H\nhEE6hRT53pNUW4yG9wHDptWu2p/KI0mfYX3Dwizp7M+yhppEHopasrWoIZSQGf9B\nlgY0Z+LrAgMBAAECggEAN0FehBvdSZiEaBFjOzo7KtSzdv0T5IVvtmb8XeqsJjAK\naL4cC1/MhCVHun2Y9KicwmWuZwWEFZJciMB/d4+OqWnynTqQBaT837keodfpzZLA\nCCTpqntspHPv6/Av8mXU4XQ1A8lPk7WvdyK/I5ws1xksPxN7pxdDOrpvq69ohQL2\n/U4n0FuX74LGtnmg81Fjoq3mPqTFkjnuchSMGAZJDsnjpCHgE0iCaQbGWwtQtwY2\nvpLcl4i0zNcuy68isV/ClrLEbaWt2c/EYQR2ZCEOIhY3gCsmEElT6OL8aqwCSsh4\n0i0sP0u9M0UX2tJvQ7x7GxRAI4t2HJbmxkLmprbNkQKBgQDbWBXfEaot0G//4e2d\ng3+lNMtuS1w6hxpkZP+EHqq+p4HqBRhY90EVGRA9duMisP96XJkl0SfkP9+uPHDK\n+59dBca2ItaoCTaBIFTp+TVFRk9McgRrMWUGZh8eFQ4BpWF8hquXk98L/9Emrglf\nXlQbmoQYb2K6HzHssBvBqrQsYwKBgQC7yJAKjbtspZ6Mx7iUQn7FmFrhSQY/6RsX\n7butQGdG1ObktAe84sAU+j6L1j38HvQzDKq9/001pxhlla6fCEkYFwILce/1jK2E\nx7+SqtwQaGf1+Yw74HTlTupZ5G6k6eL7/DIFe8933tU07toiRTwhnZmwUkMyS4rB\nDwHlKGyh2QKBgQCj4FfW5ZfDyusivmWNPWXsxFkI+nzZrX7max8MUu02rGe/tDbQ\noUqavLMJeP2SObNmdDBntLCdM6umvbl3ri8OjPY9tiGyQc/bAZDvjiVisHkmoDj0\n7V6RPVMaYpioWitPoj4pbW1Dxck5oOWXvx4P0Y3Hw9B7RjtCnwDd3O/oCQKBgDxI\ne61XqLaNSKPrLd8ypZ3rdililwYHYHJDGH/a8Ay2JlV/UgiaRo21dETSB14b1ctZ\noqqR/gheVx+teLyHHWgFYtunvR/4BHBe66o6/aCq080MSq+iNAS1W9h10+tPRlYc\ntTY7c/QIbiurDg34agBkpsUK85V+2NF3buVRH+apAoGBAJFe/kYl3fXe7Nnk5UJ4\nRnPzexIFrqGt9no30pStYOjZ0ZWx9z1jIg+7xCmoTxaCgT04RCsM5efrJ28coCQZ\nrtnqYH/vUYd8YnmckU5uUme4cgUYP0Zq3JO/ih2zhl8FvPVB0+IqpVFqONM2Ie4p\nD8FmqWU6FRROuIONW85oliWe\n-----END PRIVATE KEY-----\n",
+  "client_email": "astrodev@astrodev-365015.iam.gserviceaccount.com",
+  "client_id": "101922364310431037408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astrodev%40astrodev-365015.iam.gserviceaccount.com"
+}
